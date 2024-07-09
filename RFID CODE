@@ -21,7 +21,7 @@ const char* studentNames[] = {
   "ADITYA PAL",  // Name of student 1
   "DEV BHARGAVA",    // Name of student 2
   "AYUSHI",       // Name of student 3
-  "APUM DUPAK",     // Name of student 4
+  "APUM",     // Name of student 4
 };
 
 
